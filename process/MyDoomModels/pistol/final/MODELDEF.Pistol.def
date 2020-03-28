@@ -1,0 +1,47 @@
+Model 64Pistol
+{ 
+   Path "Models/Weapons/Hud/Pistol"
+   Model 0 "pistol1.md3"
+   Skin 0 "pistol1.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+
+	FrameIndex PISG A 0 0   
+
+    FrameIndex PISS A 0 0   
+    FrameIndex PISS B 0 0   
+    FrameIndex PISS C 0 0   
+    FrameIndex PISS D 0 0   
+	
+	FrameIndex PISF A 0 0   
+	FrameIndex PISF D 0 0 
+   
+   
+}
+
+Model 64Pistol
+{ 
+   Path "Models/Weapons/Hud/Pistol"
+   Model 0 "pistol2.md3"
+   Skin 0 "pistol2.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 2.0 0.0
+
+	
+	FrameIndex PISF C 0 0 
+	
+   
+   
+}
+
+Model 64Pistol
+{ 
+   Path "Models/Weapons/Hud/Pistol"
+   Model 0 "pistol3.md3"
+   Skin 0 "pistol3.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 2.0 0.0
+
+   
+   FrameIndex PISF B 0 0  
+}

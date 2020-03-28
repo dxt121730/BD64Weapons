@@ -1,0 +1,19 @@
+Model Lasergun
+{ 
+   Path "Models/Weapons/Hud/Lasgun"
+   Model 0 "lasgun.md3"
+   Skin 0 "lasgun.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+
+	FrameIndex LZRG A 1 0 0
+	FrameIndex LZRG B 1 0 0
+	FrameIndex LZRG C 1 0 0
+	
+	FrameIndex LZRS A 1 0 0
+	FrameIndex LZRS B 1 0 0
+	FrameIndex LZRS C 1 0 0
+	FrameIndex LZRS D 1 0 0
+	
+   
+}

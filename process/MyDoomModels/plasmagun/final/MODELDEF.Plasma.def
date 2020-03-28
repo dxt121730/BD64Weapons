@@ -1,0 +1,67 @@
+Model 64PlasmaRifle
+{ 
+   Path "Models/Weapons/Hud/PlasmaRifle"
+   Model 0 "plasmagun1.md3"
+   Skin 0 "plasmagun1.png"
+   Scale 1.0 1.0 1.0
+
+   FrameIndex PLSG A 0 0 
+   FrameIndex PLSG C 0 0
+   
+   
+   FrameIndex PLSG J 0 0
+   FrameIndex PLSG K 0 0
+   FrameIndex PLSG L 0 0
+   FrameIndex PLSG M 0 0
+   
+   FrameIndex PLSF A 0 0 
+   FrameIndex PLSF E 0 0
+   
+   
+   
+   
+   FrameIndex PLSR A 0 0 
+   FrameIndex PLSR B 0 0
+   FrameIndex PLSR C 0 0
+   FrameIndex PLSR D 0 0
+   FrameIndex PLSR E 0 0
+   FrameIndex PLSR F 0 0
+   FrameIndex PLSR G 0 0
+   
+   
+} 
+Model 64PlasmaRifle
+{ 
+   Path "Models/Weapons/Hud/PlasmaRifle"
+   Model 0 "plasmagun2.md3"
+   Skin 0 "plasmagun2.png"
+   Scale 1.0 1.0 1.0
+   
+   FrameIndex PLSG B 0 0
+   
+   FrameIndex PLSF B 0 0
+   
+} 
+Model 64PlasmaRifle
+{ 
+   Path "Models/Weapons/Hud/PlasmaRifle"
+   Model 0 "plasmagun3.md3"
+   Skin 0 "plasmagun3.png"
+   Scale 1.0 1.0 1.0
+   
+   FrameIndex PLSF C 0 0
+   
+   
+} 
+Model 64PlasmaRifle
+{ 
+   Path "Models/Weapons/Hud/PlasmaRifle"
+   Model 0 "plasmagun4.md3"
+   Skin 0 "plasmagun4.png"
+   Scale 1.0 1.0 1.0
+   
+   FrameIndex PLSG C 0 0
+   
+   FrameIndex PLSF D 0 0
+   
+} 

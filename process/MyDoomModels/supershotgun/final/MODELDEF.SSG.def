@@ -1,0 +1,86 @@
+Model 64SuperShotgun
+{ 
+   Path "Models/Weapons/Hud/SSG"
+   Model 0 "ssg1.md3"
+   Skin 0 "ssg1.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   
+	FrameIndex SSGG D 0 0   	
+	FrameIndex SSGG E 0 0   	
+
+	
+   
+}
+Model 64SuperShotgun
+{ 
+   Path "Models/Weapons/Hud/SSG"
+   Model 0 "ssg2.md3"
+   Skin 0 "ssg2.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   
+	FrameIndex SSGG F 0 0   	
+	FrameIndex SSGG G 0 0   
+	FrameIndex SSGG R 0 0   
+
+}
+Model 64SuperShotgun
+{ 
+   Path "Models/Weapons/Hud/SSG"
+   Model 0 "ssg3.md3"
+   Skin 0 "ssg3.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   
+    FrameIndex SSGG H 0 0  
+	FrameIndex SSGG I 0 0   
+	FrameIndex SSGG J 0 0   
+	FrameIndex SSGG K 0 0   
+	FrameIndex SSGG L 0 0   
+	FrameIndex SSGG M 0 0   
+	FrameIndex SSGG N 0 0   
+	FrameIndex SSGG O 0 0   
+	FrameIndex SSGG P 0 0   
+	FrameIndex SSGG Q 0 0   
+
+		
+
+   
+}
+Model 64SuperShotgun
+{ 
+   Path "Models/Weapons/Hud/SSG"
+   Model 0 "ssg-straight.md3"
+   Skin 0 "ssg-straight.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   
+   FrameIndex SSGG A 0 0   
+	
+    FrameIndex SSGS A 0 0   
+	FrameIndex SSGS B 0 0   
+	FrameIndex SSGS C 0 0   
+	FrameIndex SSGS D 0 0   
+	
+	FrameIndex SSGF A 0 0   
+	FrameIndex SSGF B 0 0   
+	FrameIndex SSGF C 0 0   
+	FrameIndex SSGF D 0 0   
+	FrameIndex SSGF F 0 0   
+	FrameIndex SSGF G 0 0   
+	
+	FrameIndex SSGG B 0 0   
+	FrameIndex SSGG C 0 0   
+	FrameIndex SSGG T 0 0   
+	FrameIndex SSGG U 0 0   
+	
+	FrameIndex SSGG S 0 0   
+   
+    FrameIndex SSGG V 0 0   
+	FrameIndex SSGG W 0 0   
+	FrameIndex SSGG X 0 0   
+	FrameIndex SSGG Y 0 0   
+	FrameIndex SSGG Z 0 0   
+   
+}

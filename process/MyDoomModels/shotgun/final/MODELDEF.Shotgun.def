@@ -1,0 +1,125 @@
+Model 64Shotgun
+{ 
+   Path "Models/Weapons/Hud/SHOTGUN"
+   Model 0 "shotgun1.md3"
+   Skin 0 "shotgun1.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   
+   FrameIndex SHTG A 0 0  
+   FrameIndex SHTG B 0 0
+   FrameIndex SHTG C 0 0
+   FrameIndex SHTG D 0 0
+   FrameIndex SHTG E 0 0
+   FrameIndex SHTG F 0 0
+   
+   FrameIndex SHTF A 0 0
+   FrameIndex SHTF B 0 0
+   FrameIndex SHTF C 0 0 
+   FrameIndex SHTF D 0 0  
+   FrameIndex SHTF E 0 0
+   
+   FrameIndex SHTS A 0 0
+   FrameIndex SHTS B 0 0 
+   FrameIndex SHTS C 0 0 
+   FrameIndex SHTS D 0 0 
+}
+
+Model 64Shotgun
+{ 
+   Path "Models/Weapons/Hud/SHOTGUN"
+   Model 0 "shotgun2.md3"
+   Skin 0 "shotgun2.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   
+   FrameIndex SHTG G 0 0
+   FrameIndex SHTG H 0 0
+   FrameIndex SHTG I 0 0
+
+
+}
+
+Model 64Shotgun
+{ 
+   Path "Models/Weapons/Hud/SHOTGUN"
+   Model 0 "shotgun3.md3"
+   Skin 0 "shotgun3.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   
+   FrameIndex SHTG J 0 0
+   FrameIndex SHTG K 0 0 
+   FrameIndex SHTG L 0 0
+   FrameIndex SHTG M 0 0
+
+
+}
+
+//===========Tactical=============
+
+Model 64ShotgunTactical
+{ 
+   Path "Models/Weapons/Hud/SHOTGUN"
+   Model 0 "shotgun1.md3"
+   Skin 0 "shotgun1.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   
+   FrameIndex SHTG A 0 0  
+   FrameIndex SHTG B 0 0
+   FrameIndex SHTG C 0 0
+   FrameIndex SHTG D 0 0
+   FrameIndex SHTG E 0 0
+   FrameIndex SHTG F 0 0
+   
+   FrameIndex SHTF A 0 0
+   FrameIndex SHTF B 0 0
+   FrameIndex SHTF C 0 0 
+   FrameIndex SHTF D 0 0  
+   FrameIndex SHTF E 0 0
+   
+   FrameIndex SHTS A 0 0
+   FrameIndex SHTS B 0 0 
+   FrameIndex SHTS C 0 0 
+   FrameIndex SHTS D 0 0 
+   
+   FrameIndex SHTR A 0 0  
+   FrameIndex SHTR B 0 0
+   FrameIndex SHTR C 0 0
+   FrameIndex SHTR D 0 0
+   FrameIndex SHTR E 0 0
+   FrameIndex SHTR F 0 0
+   FrameIndex SHTR G 0 0
+}
+
+Model 64ShotgunTactical
+{ 
+   Path "Models/Weapons/Hud/SHOTGUN"
+   Model 0 "shotgun2.md3"
+   Skin 0 "shotgun2.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   
+   FrameIndex SHTG G 0 0
+   FrameIndex SHTG H 0 0
+   FrameIndex SHTG I 0 0
+
+
+}
+
+Model 64ShotgunTactical
+{ 
+   Path "Models/Weapons/Hud/SHOTGUN"
+   Model 0 "shotgun3.md3"
+   Skin 0 "shotgun3.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+   
+   FrameIndex SHTG J 0 0
+   FrameIndex SHTG K 0 0 
+   FrameIndex SHTG L 0 0
+   FrameIndex SHTG M 0 0
+
+
+}

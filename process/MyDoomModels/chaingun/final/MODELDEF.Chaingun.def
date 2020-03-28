@@ -1,0 +1,116 @@
+MODEL 64Chaingun
+{
+Path "Models/Weapons/Hud/CHAINGUN"
+Model 0 "cgun1.md3"
+Skin 0 "cgun1.png"
+
+Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+
+FrameIndex CHNG A 0 0 FrameIndex CHNG A 1 0 
+FrameIndex CHNF A 0 0 FrameIndex CHNF A 1 0 
+FrameIndex CHNS A 0 0 FrameIndex CHNS A 1 0 
+FrameIndex CHNS B 0 0 FrameIndex CHNS B 1 0 
+FrameIndex CHNS C 0 0 FrameIndex CHNS C 1 0 
+FrameIndex CHNS D 0 0 FrameIndex CHNS D 1 0 
+}
+
+MODEL 64Chaingun
+{
+Path "Models/Weapons/Hud/CHAINGUN"
+Model 0 "cgun2.md3"
+Skin 0 "cgun2.png"
+
+Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+
+FrameIndex CHNG B 0 0 FrameIndex CHNG B 1 0 
+
+
+}
+
+MODEL 64Chaingun
+{
+Path "Models/Weapons/Hud/CHAINGUN"
+Model 0 "cgun3.md3"
+Skin 0 "cgun3.png"
+
+Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+
+FrameIndex CHNG C 0 0 FrameIndex CHNG C 1 0 
+FrameIndex CHNF B 0 0 FrameIndex CHNF B 1 0 
+
+}
+
+MODEL 64Chaingun
+{
+Path "Models/Weapons/Hud/CHAINGUN"
+Model 0 "cgun4.md3"
+Skin 0 "cgun4.png"
+
+Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+
+FrameIndex CHNG D 0 0 FrameIndex CHNG D 1 0 
+
+}
+//========Tactical==============
+
+MODEL 64ChaingunTactical
+{
+Path "Models/Weapons/Hud/CHAINGUN"
+Model 0 "cgun1.md3"
+Skin 0 "cgun1.png"
+
+Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+FrameIndex CHNG A 0 0 FrameIndex CHNG A 1 0 
+FrameIndex CHNF A 0 0 FrameIndex CHNF A 1 0 
+FrameIndex CHNS A 0 0 FrameIndex CHNS A 1 0 
+FrameIndex CHNS B 0 0 FrameIndex CHNS B 1 0 
+FrameIndex CHNS C 0 0 FrameIndex CHNS C 1 0 
+FrameIndex CHNS D 0 0 FrameIndex CHNS D 1 0 
+}
+
+MODEL 64ChaingunTactical
+{
+Path "Models/Weapons/Hud/CHAINGUN"
+Model 0 "cgun2.md3"
+Skin 0 "cgun2.png"
+
+Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+
+FrameIndex CHNG B 0 0 FrameIndex CHNG B 1 0 
+
+
+}
+
+MODEL 64ChaingunTactical
+{
+Path "Models/Weapons/Hud/CHAINGUN"
+Model 0 "cgun3.md3"
+Skin 0 "cgun3.png"
+
+Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+
+FrameIndex CHNG C 0 0 FrameIndex CHNG C 1 0 
+FrameIndex CHNF B 0 0 FrameIndex CHNF B 1 0 
+
+}
+
+MODEL 64ChaingunTactical
+{
+Path "Models/Weapons/Hud/CHAINGUN"
+Model 0 "cgun4.md3"
+Skin 0 "cgun4.png"
+
+Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+
+FrameIndex CHNG D 0 0 FrameIndex CHNG D 1 0 
+
+}
+

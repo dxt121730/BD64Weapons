@@ -1,0 +1,42 @@
+Model 64RocketLauncher
+{ 
+   Path "Models/Weapons/Hud/RocketLauncher"
+   Model 0 "launcher.md3"
+   Skin 0 "launcher.png"
+   Scale 0.9 0.9 0.9
+   Offset 0.0 0.0 -1
+
+	FrameIndex MISG A 1 0 0
+	FrameIndex MISG B 1 0 0
+	
+	FrameIndex MISS A 1 0 0
+	FrameIndex MISS B 1 0 0
+	FrameIndex MISS C 1 0 0
+	FrameIndex MISS D 1 0 0
+   
+}
+
+Model 64RocketLauncherTactical
+{ 
+   Path "Models/Weapons/Hud/RocketLauncher"
+   Model 0 "launcher.md3"
+   Skin 0 "launcher.png"
+   Scale 0.9 0.9 0.9
+   Offset 0.0 0.0 -1
+
+	FrameIndex MISG A 1 0 0
+	FrameIndex MISG B 1 0 0
+	
+	FrameIndex MISS A 1 0 0
+	FrameIndex MISS B 1 0 0
+	FrameIndex MISS C 1 0 0
+	FrameIndex MISS D 1 0 0
+	
+	FrameIndex MISR A 1 0 0
+	FrameIndex MISR B 1 0 0
+	FrameIndex MISR C 1 0 0
+	FrameIndex MISR D 1 0 0
+	FrameIndex MISR E 1 0 0
+	FrameIndex MISR F 1 0 0
+   
+}

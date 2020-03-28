@@ -1,0 +1,22 @@
+Model Unmaker
+{ 
+   Path "Models/Weapons/Hud/Unmaker"
+   Model 0 "unmaker.md3"
+   Skin 0 "unmaker.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+
+	FrameIndex UNMA A 1 0 0
+	FrameIndex UNMA J 1 0 0
+	FrameIndex UNMA K 1 0 0
+	FrameIndex UNMA L 1 0 0
+	FrameIndex UNMA D 1 0 0
+	FrameIndex UNMA E 1 0 0
+	
+	FrameIndex UNMS A 1 0 0
+	FrameIndex UNMS B 1 0 0
+	FrameIndex UNMS C 1 0 0
+	FrameIndex UNMS D 1 0 0
+	
+   
+}

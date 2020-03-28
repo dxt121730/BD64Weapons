@@ -1,0 +1,20 @@
+brightmap texture "Models/Weapons/Hud/PlasmaRifle/plasmagun1.png"
+{
+	map "Models/Weapons/Hud/PlasmaRifle/plasmagun1-brightmap.png"
+	
+}
+brightmap texture "Models/Weapons/Hud/PlasmaRifle/plasmagun2.png"
+{
+	map "Models/Weapons/Hud/PlasmaRifle/plasmagun2-brightmap.png"
+	
+}
+brightmap texture "Models/Weapons/Hud/PlasmaRifle/plasmagun3.png"
+{
+	map "Models/Weapons/Hud/PlasmaRifle/plasmagun3-brightmap.png"
+
+}
+brightmap texture "Models/Weapons/Hud/PlasmaRifle/plasmagun4.png"
+{
+	map "Models/Weapons/Hud/PlasmaRifle/plasmagun4-brightmap.png"
+	
+}

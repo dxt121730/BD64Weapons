@@ -1,0 +1,13 @@
+# Blender MTL File: 'PISTOL.blend'
+# Material Count: 1
+
+newmtl palette.019
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\turkd\\Documents\\MyDoomModels\\pistol\\voxel\\pistol-0-gun3.png

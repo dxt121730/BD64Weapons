@@ -1,0 +1,52 @@
+Model 64Rifle
+{ 
+   Path "Models/Weapons/Hud/AssaultRifle"
+   Model 0 "rifle.md3"
+   Skin 0 "rifle.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0
+
+	FrameIndex RIFG A 1 0 0
+	
+	FrameIndex RIFS A 1 0 0
+	FrameIndex RIFS B 1 0 0
+	FrameIndex RIFS C 1 0 0
+	FrameIndex RIFS D 1 0 0
+	
+	FrameIndex RIFF A 1 0 0
+	FrameIndex RIFF B 1 0 0
+	FrameIndex RIFF C 1 0 0
+   
+}
+
+//==========Tactical============
+
+Model 64RifleTactical
+{ 
+   Path "Models/Weapons/Hud/AssaultRifle"
+   Model 0 "rifle.md3"
+   Skin 0 "rifle.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0
+
+	FrameIndex RIFG A 1 0 0
+	
+	FrameIndex RIFS A 1 0 0
+	FrameIndex RIFS B 1 0 0
+	FrameIndex RIFS C 1 0 0
+	FrameIndex RIFS D 1 0 0
+	
+	FrameIndex RIFF A 1 0 0
+	FrameIndex RIFF B 1 0 0
+	FrameIndex RIFF C 1 0 0
+   
+   	FrameIndex RIFR A 1 0 0
+	FrameIndex RIFR B 1 0 0
+	FrameIndex RIFR C 1 0 0
+	FrameIndex RIFR D 1 0 0
+	FrameIndex RIFR E 1 0 0
+	FrameIndex RIFR F 1 0 0
+	FrameIndex RIFR G 1 0 0
+	FrameIndex RIFR H 1 0 0
+	FrameIndex RIFR I 1 0 0
+}

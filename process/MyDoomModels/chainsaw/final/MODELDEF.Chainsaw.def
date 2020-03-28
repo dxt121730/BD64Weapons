@@ -1,0 +1,33 @@
+Model Chainsaw
+{
+   Path "Models/Weapons/Hud/Chainsaw"
+   Model 0 "chainsaw1.md3"
+   Skin 0 "chainsaw1.png"
+   Scale 1.0 1.0 1.0
+   PitchOffset 15
+
+   FrameIndex SAWG C 0 2	   FrameIndex SAWG C 1 2	   FrameIndex SAWG C 2 2	   FrameIndex SAWG C 3 2
+   FrameIndex SAWG D 0 1	   FrameIndex SAWG D 1 1	   FrameIndex SAWG D 2 1	   FrameIndex SAWG D 3 1
+}
+
+Model Chainsaw
+{
+   Path "Models/Weapons/Hud/Chainsaw"
+   Model 0 "chainsaw2.md3"
+   Skin 0 "chainsaw2.png"
+   Scale 1.0 1.0 1.0
+   ZOffset 0.0
+
+   FrameIndex SAWG A 0 0	   FrameIndex SAWG A 1 0	   FrameIndex SAWG A 2 0	   FrameIndex SAWG A 3 0
+}
+
+Model Chainsaw
+{
+   Path "Models/Weapons/Hud/Chainsaw"
+   Model 0 "chainsaw3.md3"
+   Skin 0 "chainsaw3.png"
+   Scale 1.0 1.0 1.0
+   ZOffset 0.0
+
+   FrameIndex SAWG B 0 0	   FrameIndex SAWG B 1 0	   FrameIndex SAWG B 2 0	   FrameIndex SAWG B 3 0
+}

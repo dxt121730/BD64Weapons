@@ -1,0 +1,34 @@
+Model 64BFG9000
+{ 
+   Path "Models/Weapons/Hud/BFG9000"
+   Model 0 "bfg.md3"
+   Skin 0 "bfg.png"
+   Scale 1.0 1.0 1.0
+   Offset 0.0 0.0 0.0
+
+	FrameIndex BFGG A 1 0 0
+	FrameIndex BFGG B 1 0 0
+	FrameIndex BFGG C 1 0 0
+	FrameIndex BFGG D 1 0 0
+	
+	FrameIndex BFGS A 1 0 0
+	FrameIndex BFGS B 1 0 0
+	FrameIndex BFGS C 1 0 0
+	FrameIndex BFGS D 1 0 0
+	
+	FrameIndex BFGC A 1 0 0
+	FrameIndex BFGC B 1 0 0
+	FrameIndex BFGC C 1 0 0
+	FrameIndex BFGC D 1 0 0
+	
+	FrameIndex BFGF A 1 0 0
+	FrameIndex BFGF B 1 0 0
+	FrameIndex BFGF C 1 0 0
+	FrameIndex BFGF D 1 0 0
+	FrameIndex BFGF E 1 0 0
+	FrameIndex BFGF F 1 0 0
+	FrameIndex BFGF G 1 0 0
+	FrameIndex BFGF H 1 0 0
+	FrameIndex BFGF I 1 0 0
+   
+}
