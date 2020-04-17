@@ -29,20 +29,21 @@ SSG ISSUE:
 	SSGG RS 1
 to
 
-	SSGG NOPQ 8
-	//TNT1 A 8
-	SSGG RS 2
+	SSGG NOPQ 2
+	SSGG RS 3
+	
 
 and the "Reload" state lines:
 
 	SSGG NOPQ 1
-	//TNT1 A 8
+	TNT1 A 8
 	SSGG RS 1
 to
 
-	SSGG NOPQ 8
-	//TNT1 A 8
-	SSGG RS 2
+	SSGG NOPQ 2
+	SSGG RS 3
+	
+[[EDITED BECAUSE I WAS DUMB BEFORE AND MISREAD THE ORIGINAL, THESE DEFS WILL WORK BETTER THAN THE OLD ONES]]
 
 DISCLAIMER:
 I originally just made this package to use locally because I disliked having to use the sprite options provided by default. I can't guarantee this will work on all setups or that I'll be able to provide support for any specific parts of it. I just wanted to put it out there for anyone in the same boat.
